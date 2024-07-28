@@ -1,2 +1,0 @@
-# 4_telecom_company_tariff_ds22plus
-4_telecom_company_tariff_
